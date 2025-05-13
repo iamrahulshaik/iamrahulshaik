@@ -40,18 +40,9 @@
 
 ---
 
-<!-- ======================= -->
-<!-- ❤️ THINGS I LOVE -->
-<!-- ======================= -->
 
-<h3>🌍 Things I Love</h3>
+ 
 
-- 🐍 Solving real-world problems with Python  
-- 💻 Building full-stack web apps from scratch  
-- 🎮 Playing story-driven games and casual coding challenges  
-- 📚 Learning new tech and improving my coding skills daily  
-- ☕ Late-night coding sessions powered by coffee  
-- 🧠 Thinking creatively and finding simple solutions to complex tasks  
 
 ---
 
@@ -90,7 +81,13 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
 
+
+
+  
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahulshaik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
 
 <!-- ======================= -->
 <!-- 🔗 CONNECT WITH ME -->
